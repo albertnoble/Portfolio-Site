@@ -30,7 +30,18 @@ hr {
 }
 
 .project-image {
-	width: 100%;
-	height: auto;
-	display: block;
+    text-align: center;
+	width: 200px;
+    height:200px;
+}
+
+.project-banner {
+    text-align: center;
+    color: white;
+    padding:30px;
+    background-color: #334055;
+}
+
+a {
+    color: white !important;
 }
